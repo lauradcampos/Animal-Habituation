@@ -1,2 +1,2 @@
 # Animal-Habituation
-Projeto referente à habituação animal (saguis) através de caixa operante
+Projeto referente à experimentação através de caixa operante do sagui-comum (Callithrix jacchus).
